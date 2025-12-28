@@ -1,0 +1,377 @@
+{
+    "lives": [
+        {
+            "name": "❤️冰茶",
+            "type": 0,
+            "playerType": 2,
+            "url": "https://bc.188766.xyz/?ip=&mima=mianfeibuhuaqian&json=true",
+            "ua": "bingcha/1.1 (mianfeifenxiang) "
+        },
+        {
+            "name": "❤️myDS",
+            "type": 0,
+            "url": "https://gitee.com/sd-live/zb/raw/master/myDS"
+        },
+        {
+            "name": "❤️卡卡西",
+            "type": 0,
+            "url": "https://down.nigx.cn/raw.githubusercontent.com/kakaxi-1/IPTV/main/ipv4.txt"
+        },
+        {
+            "name": "❤️咪咕720P直播",
+            "type": 0,
+            "url": "https://down.nigx.cn/raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt"
+        },
+        {
+            "name": "❤️xiongjian83",
+            "type": 0,
+            "url": "https://down.nigx.cn/raw.githubusercontent.com/xiongjian83/TvBox/main/live.txt"
+        },
+        {
+            "name": "❤️电视家",
+            "url": "https://down.nigx.cn/dsj.zzong6599.workers.dev/"
+        },
+        {
+            "name": "❤️央卫",
+            "url": "https://iptv.catvod.com/tv.m3u"
+        },
+        {
+            "name": "❤️港台",
+            "url": "https://live.catvod.com/tv.m3u"
+        },
+        {
+            "name": "❤️网络直播",
+            "url": "https://m.iill.top/Live.m3u",
+            "header": {
+                "User-Agent": "okhttp/5.1.0",
+                "Referer": "https://m.iill.top/"
+            }
+        },
+        {
+            "name": "❤️jackTV",
+            "url": "https://php.946985.filegear-sg.me/jackTV.m3u"
+        },
+        {
+            "name": "❤️YanG",
+            "url": "https://tv.iill.top/m3u/Gather",
+            "ua": "okhttp/3.8.1"
+        },
+        {
+            "name": "❤️惊喜0901",
+            "type": 0,
+            "url": "https://ghfast.top/raw.githubusercontent.com/Supprise0901/TVBox_live/main/live.txt"
+        },
+        {
+            "name": "❤️Guovin",
+            "type": 0,
+            "url": "https://down.nigx.cn/raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.txt"
+        },
+        {
+            "name": "❤️星空网",
+            "type": 0,
+            "url": "https://down.nigx.cn/raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt"
+        },
+        {
+            "name": "❤️海外电视",
+            "type": 0,
+            "url": "https://vip.iptv365.org/live2025.txt"
+        },
+        {
+            "name": "❤️APTV",
+            "type": 0,
+            "url": "https://down.nigx.cn/raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u"
+        },
+        {
+            "name": "❤️AKTV电影",
+            "type": 0,
+            "url": "https://8142.kstore.space/1.txt"
+        },
+        {
+            "name": "❤️神州TV",
+            "type": 0,
+            "url": "https://6758.kstore.space/666.txt"
+        },
+        {
+            "name": "❤️hu",
+            "type": 0,
+            "url": "https://gitee.com/jin-xueling/lingl/raw/master/hu.txt"
+        },
+        {
+            "name": "❤️猫TV",
+            "type": 0,
+            "url": "http://rihou.cc:567/gggg.nzk",
+            "playerType": 1,
+            "ua": "okhttp/3",
+            "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
+            "logo": "http://diyp2.112114.xyz/logo/{name}.png"
+        },
+        {
+            "name": "❤️台湾频道",
+            "type": 0,
+            "url": "https://epg.pw/test_channels_taiwan.m3u"
+        },
+        {
+            "name": "❤️探探",
+            "type": 0,
+            "url": "http://www.lyyytv.cn/yt/zhibo/1.txt"
+        },
+        {
+            "name": "❤️alantang1977",
+            "type": 0,
+            "url": "https://down.nigx.cn/raw.githubusercontent.com/alantang1977/X/main/live/live_ipv4.txt"
+        },
+        {
+            "name": "❤️lenin每天更新",
+            "type": 0,
+            "url": "https://down.nigx.cn/raw.githubusercontent.com/alenin-zhang/IPTV/main/lenin.txt"
+        },
+        {
+            "name": "❤️live每天更新",
+            "type": 0,
+            "url": "https://tvv.tw/https://raw.githubusercontent.com/CCSH/IPTV/main/live.txt"
+        },
+        {
+            "name": "❤️others每天更新",
+            "type": 0,
+            "url": "https://tvv.tw/https://raw.githubusercontent.com/CCSH/IPTV/main/others.txt"
+        },
+        {
+            "name": "❤️wwb521",
+            "type": 0,
+            "url": "https://tvv.tw/raw.githubusercontent.com/wwb521/live/main/tv.txt"
+        },
+        {
+            "name": "❤️888每天更新",
+            "type": 0,
+            "url": "https://tvv.tw/https://raw.githubusercontent.com/ffmking/tv1/main/888.txt"
+        },
+        {
+            "name": "❤️Johnisonn每天更新",
+            "type": 0,
+            "url": "https://tvv.tw/https://raw.githubusercontent.com/Johnisonn/lives/main/live.txt"
+        },
+        {
+            "name": "❤️晨雨每天更新",
+            "type": 0,
+            "url": "https://down.nigx.cn/raw.githubusercontent.com/cluntop/tv/main/lib/iptv.txt"
+        },
+        {
+            "name": "❤️晨雨iptv每天更新",
+            "type": 0,
+            "url": "https://down.nigx.cn/raw.githubusercontent.com/cluntop/tvbox/boxmain/lib/iptv.txt"
+        },
+        {
+            "name": "❤️蜻蜓live",
+            "type": 0,
+            "url": "https://down.nigx.cn/raw.githubusercontent.com/qingtingjjjjjjj/config-tv/main/live.txt"
+        },
+        {
+            "name": "❤️蜻蜓my",
+            "type": 0,
+            "url": "https://down.nigx.cn/raw.githubusercontent.com/qingtingjjjjjjj/iptv-auto-update/main/my.txt"
+        },
+        {
+            "name": "❤️蜻蜓my02",
+            "type": 0,
+            "url": "https://down.nigx.cn/raw.githubusercontent.com/qingtingjjjjjjj/iptv-auto-update/main/my02.txt"
+        },
+        {
+            "name": "❤️蜻蜓myq",
+            "type": 0,
+            "url": "https://down.nigx.cn/raw.githubusercontent.com/qingtingjjjjjjj/iptv-auto-update/main/myq.txt"
+        },
+        {
+            "name": "❤️vicjl(CCTV)",
+            "type": 0,
+            "url": "https://down.nigx.cn/raw.githubusercontent.com/vicjl/myIPTV/main/CCTV.m3u"
+        },
+        {
+            "name": "❤️vicjl(CNTV)",
+            "type": 0,
+            "url": "https://down.nigx.cn/raw.githubusercontent.com/vicjl/myIPTV/main/CNTV.m3u"
+        },
+        {
+            "name": "❤️vicjl(IPTV)",
+            "type": 0,
+            "url": "https://down.nigx.cn/raw.githubusercontent.com/vicjl/myIPTV/main/IPTV.m3u"
+        },
+        {
+            "name": "❤️vicjl(IPTV.g)",
+            "type": 0,
+            "url": "https://down.nigx.cn/raw.githubusercontent.com/vicjl/myIPTV/main/IPTV.g.m3u"
+        },
+        {
+            "name": "❤️vicjl(TV-IPV4)",
+            "type": 0,
+            "url": "https://down.nigx.cn/raw.githubusercontent.com/vicjl/myIPTV/main/TV-IPV4.m3u"
+        },
+        {
+            "name": "❤️vicjl(IPTV-all)",
+            "type": 0,
+            "url": "https://down.nigx.cn/raw.githubusercontent.com/vicjl/myIPTV/main/IPTV-all.m3u"
+        },
+        {
+            "name": "❤️vicjl(sdyd-iptv)",
+            "type": 0,
+            "url": "https://down.nigx.cn/raw.githubusercontent.com/vicjl/myIPTV/main/sdyd-iptv.m3u"
+        },
+        {
+            "name": "❤️B站直播",
+            "type": 0,
+            "url": "https://tvv.tw/raw.githubusercontent.com/mursor1985/LIVE/main/bililive.m3u"
+        },
+        {
+            "name": "❤️斗鱼一起看",
+            "type": 0,
+            "url": "https://tvv.tw/raw.githubusercontent.com/mursor1985/LIVE/main/douyuyqk.m3u"
+        },
+        {
+            "name": "❤️虎牙一起看",
+            "type": 0,
+            "url": "https://tvv.tw/raw.githubusercontent.com/mursor1985/LIVE/main/huyayqk.m3u"
+        },
+        {
+            "name": "❤️影院轮播",
+            "type": 0,
+            "url": "https://tvv.tw/raw.githubusercontent.com/mursor1985/LIVE/main/yylunbo.m3u"
+        },
+        {
+            "name": "❤️虎牙",
+            "url": "https://sub.ottiptv.cc/huyayqk.m3u",
+            "header": {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+                "Referer": "https://sub.ottiptv.cc/"
+            }
+        },
+        {
+            "name": "❤️斗鱼",
+            "url": "https://sub.ottiptv.cc/douyuyqk.m3u",
+            "header": {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+                "Referer": "https://sub.ottiptv.cc/"
+            }
+        },
+        {
+            "name": "❤️yy轮播",
+            "url": "https://sub.ottiptv.cc/yylunbo.m3u",
+            "header": {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+                "Referer": "https://sub.ottiptv.cc/"
+            }
+        },
+        {
+            "name": "❤️典藏版IPV4专用",
+            "type": 0,
+            "url": "https://down.nigx.cn/raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u"
+        },
+        {
+            "name": "❤️裤佬永久IPTV",
+            "type": 0,
+            "url": "https://down.nigx.cn/raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg1"
+        },
+        {
+            "name": "❤️jack2713(dy)",
+            "type": 0,
+            "url": "https://down.nigx.cn/raw.githubusercontent.com/jack2713/my/main/dy.txt"
+        },
+        {
+            "name": "❤️jack2713(my)",
+            "type": 0,
+            "url": "https://down.nigx.cn/raw.githubusercontent.com/jack2713/my/main/my.txt"
+        },
+        {
+            "name": "❤️jack2713(myq)",
+            "type": 0,
+            "url": "https://down.nigx.cn/raw.githubusercontent.com/jack2713/my/main/myq.txt"
+        },
+        {
+            "name": "❤️jack2713(my02)",
+            "type": 0,
+            "url": "https://down.nigx.cn/raw.githubusercontent.com/jack2713/my/main/my02.txt"
+        },
+        {
+            "name": "❤️jack2713(my03)",
+            "type": 0,
+            "url": "https://down.nigx.cn/raw.githubusercontent.com/jack2713/my/main/my03.txt"
+        },
+        {
+            "name": "❤️bbxx",
+            "type": 0,
+            "url": "https://down.nigx.cn/raw.githubusercontent.com/kimwang1978/collect-txt/main/bbxx.txt"
+        },
+        {
+            "name": "❤️bbxx_lite",
+            "type": 0,
+            "url": "https://down.nigx.cn/raw.githubusercontent.com/kimwang1978/collect-txt/main/bbxx_lite.txt"
+        },
+        {
+            "name": "❤️others_output",
+            "type": 0,
+            "url": "https://down.nigx.cn/raw.githubusercontent.com/kimwang1978/collect-txt/main/others_output.txt"
+        },
+        {
+            "name": "❤️zilong7728每天更新",
+            "type": 0,
+            "url": "https://down.nigx.cn/raw.githubusercontent.com/zilong7728/Collect-IPTV/main/best_sorted.m3u"
+        },
+        {
+            "name": "❤️adminouyang每天更新1",
+            "type": 0,
+            "url": "https://down.nigx.cn/raw.githubusercontent.com/adminouyang/dszby/main/live.txt"
+        },
+        {
+            "name": "❤️adminouyang每天更新2",
+            "type": 0,
+            "url": "https://down.nigx.cn/raw.githubusercontent.com/adminouyang/dszby/main/merged_output.txt"
+        },
+        {
+            "name": "❤️adminouyang每天更新3",
+            "type": 0,
+            "url": "https://down.nigx.cn/raw.githubusercontent.com/adminouyang/dszby/main/others_output.txt"
+        },
+        {
+            "name": "❤️yoursmile66每天更新",
+            "type": 0,
+            "url": "https://down.nigx.cn/raw.githubusercontent.com/yoursmile66/TVBox/main/live.txt"
+        },
+        {
+            "name": "❤️易发源169169",
+            "type": 0,
+            "url": "https://tvv.tw/raw.githubusercontent.com/fafa002/yf2025/main/yiyifafa.txt"
+        },
+        {
+            "name": "❤️4gtv",
+            "type": 0,
+            "url": "https://tvv.tw/raw.githubusercontent.com/judy-gotv/iptv/main/4gtv.m3u"
+        },
+        {
+            "name": "❤️ofiii",
+            "type": 0,
+            "url": "https://tvv.tw/raw.githubusercontent.com/judy-gotv/iptv/main/ofiii.m3u"
+        },
+        {
+            "name": "❤️MytvSuper",
+            "type": 0,
+            "url": "https://tvv.tw/raw.githubusercontent.com/judy-gotv/iptv/main/MytvSuper.m3u"
+        },
+        {
+            "name": "❤️index",
+            "type": 0,
+            "url": "https://tvv.tw/raw.githubusercontent.com/chao921125/source/main/iptv/index.m3u"
+        },
+        {
+            "name": "❤️台湾",
+            "type": 0,
+            "url": "https://tvv.tw/raw.githubusercontent.com/frxz751113/AAAAA/main/TW.txt"
+        },
+        {
+            "name": "❤️网络收集",
+            "type": 0,
+            "url": "https://tvv.tw/raw.githubusercontent.com/frxz751113/IPTVzb1/main/网络收集.txt"
+        },
+        {
+            "name": "❤️考古、经典传奇",
+            "url": "https://tvv.tw/raw.githubusercontent.com/eklins/FDTV/main/tv/考古、经典传奇.m3u"
+        }
+    ]
+}
